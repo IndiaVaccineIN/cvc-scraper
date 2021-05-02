@@ -1,3 +1,7 @@
+# NOTICE
+
+This project has been merged with [https://github.com/IndiaVaccineIN/api_server](https://github.com/IndiaVaccineIN/api_server)
+
 # Covid Vaccination Center (CVC) Scraper
 A quick script to scrape  https://dashboard.cowin.gov.in/ and extract state wise Covid Vaccination Center info
 
